@@ -38,3 +38,8 @@
 ```powershell
 python -m pip install jupyter ipykernel
 ```
+
+```powershell
+python -m pip install opencv-python numpy pillow matplotlib jupyter ipykernel
+
+```
